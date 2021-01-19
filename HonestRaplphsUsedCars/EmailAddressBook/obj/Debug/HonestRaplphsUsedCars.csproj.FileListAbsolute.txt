@@ -1,0 +1,11 @@
+C:\Users\engel\OneDrive\01LoneStar\2020 Summer\ITSE-2353 Advanced C# Programing\chapter 15\HonestRaplphsUsedCars\HonestRaplphsUsedCars\EmailAddressBook\bin\Debug\EmailAddressBook.exe.config
+C:\Users\engel\OneDrive\01LoneStar\2020 Summer\ITSE-2353 Advanced C# Programing\chapter 15\HonestRaplphsUsedCars\HonestRaplphsUsedCars\EmailAddressBook\bin\Debug\EmailAddressBook.exe
+C:\Users\engel\OneDrive\01LoneStar\2020 Summer\ITSE-2353 Advanced C# Programing\chapter 15\HonestRaplphsUsedCars\HonestRaplphsUsedCars\EmailAddressBook\bin\Debug\EmailAddressBook.pdb
+C:\Users\engel\OneDrive\01LoneStar\2020 Summer\ITSE-2353 Advanced C# Programing\chapter 15\HonestRaplphsUsedCars\HonestRaplphsUsedCars\EmailAddressBook\obj\Debug\HonestRaplphsUsedCars.csprojAssemblyReference.cache
+C:\Users\engel\OneDrive\01LoneStar\2020 Summer\ITSE-2353 Advanced C# Programing\chapter 15\HonestRaplphsUsedCars\HonestRaplphsUsedCars\EmailAddressBook\obj\Debug\EmailAddressBook.Properties.Resources.resources
+C:\Users\engel\OneDrive\01LoneStar\2020 Summer\ITSE-2353 Advanced C# Programing\chapter 15\HonestRaplphsUsedCars\HonestRaplphsUsedCars\EmailAddressBook\obj\Debug\HonestRaplphsUsedCars.csproj.GenerateResource.cache
+C:\Users\engel\OneDrive\01LoneStar\2020 Summer\ITSE-2353 Advanced C# Programing\chapter 15\HonestRaplphsUsedCars\HonestRaplphsUsedCars\EmailAddressBook\obj\Debug\HonestRaplphsUsedCars.csproj.CoreCompileInputs.cache
+C:\Users\engel\OneDrive\01LoneStar\2020 Summer\ITSE-2353 Advanced C# Programing\chapter 15\HonestRaplphsUsedCars\HonestRaplphsUsedCars\EmailAddressBook\obj\Debug\EmailAddressBook.exe
+C:\Users\engel\OneDrive\01LoneStar\2020 Summer\ITSE-2353 Advanced C# Programing\chapter 15\HonestRaplphsUsedCars\HonestRaplphsUsedCars\EmailAddressBook\obj\Debug\EmailAddressBook.pdb
+C:\Users\engel\OneDrive\01LoneStar\2020 Summer\ITSE-2353 Advanced C# Programing\chapter 15\HonestRaplphsUsedCars\HonestRaplphsUsedCars\EmailAddressBook\obj\Debug\HonestRaplphsUsedCars.displayNames.resources
+C:\Users\engel\OneDrive\01LoneStar\2020 Summer\ITSE-2353 Advanced C# Programing\chapter 15\HonestRaplphsUsedCars\HonestRaplphsUsedCars\EmailAddressBook\obj\Debug\HonestRaplphsUsedCars.Form1.resources

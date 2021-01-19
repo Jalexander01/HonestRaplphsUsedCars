@@ -1,0 +1,22 @@
+C:\Users\engel\source\repos\EmailAddressBook\EmailAddressBook\bin\Debug\EmailAddressBook.exe.config
+C:\Users\engel\source\repos\EmailAddressBook\EmailAddressBook\bin\Debug\EmailAddressBook.exe
+C:\Users\engel\source\repos\EmailAddressBook\EmailAddressBook\bin\Debug\EmailAddressBook.pdb
+C:\Users\engel\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.csprojAssemblyReference.cache
+C:\Users\engel\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.Form1.resources
+C:\Users\engel\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.Properties.Resources.resources
+C:\Users\engel\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.csproj.GenerateResource.cache
+C:\Users\engel\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.csproj.CoreCompileInputs.cache
+C:\Users\engel\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.exe
+C:\Users\engel\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.pdb
+C:\Users\engel\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.displayNames.resources
+C:\Users\engel\source\repos\Friends Records\EmailAddressBook\bin\Debug\EmailAddressBook.exe.config
+C:\Users\engel\source\repos\Friends Records\EmailAddressBook\bin\Debug\EmailAddressBook.exe
+C:\Users\engel\source\repos\Friends Records\EmailAddressBook\bin\Debug\EmailAddressBook.pdb
+C:\Users\engel\source\repos\Friends Records\EmailAddressBook\obj\Debug\EmailAddressBook.csprojAssemblyReference.cache
+C:\Users\engel\source\repos\Friends Records\EmailAddressBook\obj\Debug\EmailAddressBook.Properties.Resources.resources
+C:\Users\engel\source\repos\Friends Records\EmailAddressBook\obj\Debug\EmailAddressBook.csproj.GenerateResource.cache
+C:\Users\engel\source\repos\Friends Records\EmailAddressBook\obj\Debug\EmailAddressBook.csproj.CoreCompileInputs.cache
+C:\Users\engel\source\repos\Friends Records\EmailAddressBook\obj\Debug\EmailAddressBook.exe
+C:\Users\engel\source\repos\Friends Records\EmailAddressBook\obj\Debug\EmailAddressBook.pdb
+C:\Users\engel\source\repos\Friends Records\EmailAddressBook\obj\Debug\FriendRecords.displayNames.resources
+C:\Users\engel\source\repos\Friends Records\EmailAddressBook\obj\Debug\FriendRecords.Form1.resources
